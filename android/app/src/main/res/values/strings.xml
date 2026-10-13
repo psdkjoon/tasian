@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasian</string>
+    <string name="notification_channel">Notifications</string>
+    <string name="day_channel">Today\'s date</string>
+    <string name="reminder_channel">Event reminders</string>
+    <string name="tile_off">Off</string>
+    <string name="tile_busy">Working…</string>
+    <string name="tile_on">On</string>
+</resources>
